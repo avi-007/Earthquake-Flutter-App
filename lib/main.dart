@@ -27,7 +27,7 @@ class Quakes extends StatelessWidget {
       appBar: new AppBar(
         title: new Text('Quakes'),
         centerTitle: true,
-        backgroundColor: Colors.blue.shade700,
+        backgroundColor: Colors.black12
       ),
       body: new Center(
         child: new ListView.builder(
